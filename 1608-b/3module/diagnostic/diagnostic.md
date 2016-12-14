@@ -13,7 +13,7 @@ repo:
 repo:
 
 ### Ben Pepper
-repo: https://github.com/bfpepper/module_3_diagnostic
+repo:
 
 ### Chase Dunagan
 repo:
@@ -43,7 +43,7 @@ repo:
 repo:
 
 ### Nicholas Martinez
-repo:
+repo: https://github.com/NZenitram/module_3_diagnostic.git
 
 ### Noah Berman
 repo:
